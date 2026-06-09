@@ -1,10 +1,11 @@
-## Hi there 👋 It's me Uvini
+## Chasing after learning machines 🏃🏻‍♀️ <img src="https://visitor-badge.laobi.icu/badge?page_id=uvinir" alt="visitor badge" align="right"/></p>
 
-Chasing after learning machines...
+#### 👋 Hi there, I'm [Uvini](https://www.github.com/uvinir)
 
-![Vistors](https://komarev.com/ghpvc/?username=UviniR&color=blue)
+🔭 PhD student at the University of Melbourne
 
-## About Me
-- 🔭 I’m a PhD student at the University of Melbourne.
-- 🎓 Graduated with a BBSc. (Hons) in Business Science from the University of Moratuwa, Sri Lanka.
-- 🌐 Have a look at my Portfolio: [Portfolio](https://uvini.me)
+🌱 Isn't it wonderful to think of how language itself shapes the decisions we make?
+
+🎓 BBSc. (Hons.) in Business Science, University of Moratuwa, Sri Lanka
+  
+🌐 Digital Garden: [uvini.me](https://uvini.me)
